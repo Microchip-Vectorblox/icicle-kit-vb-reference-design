@@ -1,5 +1,7 @@
 # PolarFire SoC Icicle Kit Reference Design Generation Tcl Scripts for Vectorblox - Libero v12.6
 
+> **WARNING** This project is in alpha and is subject to sudden and dramatic changes
+
 This design is based on the [icicle-kit-reference-design](https://github.com/polarfire-soc/icicle-kit-reference-design). Most of the usage is the same, and that repository should referenced for documentation regarding most of the system. 
 
 The differences is the addition of the Vectorblox_ss subsystem. 
